@@ -1,0 +1,17 @@
+{
+  "name": "code-and-magick",
+  "private": false,
+  "description": "Учебный проект «Код и Магия» от HTML Academy",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:DeadCripple/code-and-magic.git"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-config-htmlacademy": "^0.5.2"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "eslint js/"
+  }
+}
